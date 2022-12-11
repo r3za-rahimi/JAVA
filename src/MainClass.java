@@ -19,6 +19,7 @@ public class MainClass {
         System.out.println(result);
         System.out.println("gitt change for three time ");
         System.out.println("master changes ");
+        System.out.println("this is test from r3zar ");
 
     }
 
