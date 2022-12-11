@@ -18,6 +18,7 @@ public class MainClass {
 
         System.out.println(result);
         System.out.println("gitt");
+        System.out.println("gitt");
 
     }
 
